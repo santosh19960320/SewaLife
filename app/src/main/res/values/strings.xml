@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Call Ambulance</string>
+    <string name="call_ambulance">Call Ambulance</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">LOGIN</string>
+    <string name="sign">SIGN UP</string>
+    <string name="forgot">FORGOT PASSWORD</string>
+    <string name="logo_desc">Logo of call ambulance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="emergency">Emergency Services</string>
+    <string name="emergency_name">Emergency Name</string>
+    <string name="emergency_type">Emergency Type</string>
+    <string name="hospital_list"> List of Hospital </string>
+    <string name="hospital_name">Hospital Name</string>
+    <string name="hospital_type">Hospital Type</string>
+    <string name="hospital_for">Hospital For </string>
+    <string name="hospital_phone">Hospital Phone </string>
+    <string name="text">Pick the Blood Donor </string>
+    <string name = "ok"> You Picked </string>
+    <string name="start_typing">Start typing</string>
+
+
+
+    <string-array name="items">
+        <item> Long Distance </item>
+        <item> Medium Distance </item>
+        <item> Short Distance </item>
+    </string-array>
+
+    <string-array name="prices">
+        <item> $100.99 </item>
+        <item> $70.88 </item>
+        <item> $30.80</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> Provide Ambulance Services for Long Distance </item>
+        <item> Provide Ambulance Services for Medium Distance </item>
+        <item> Provide Ambulance Services for Short Distance </item>
+    </string-array>
+
+    <string-array name="donorsArray">
+        <item> Rozan Gurung : 9811111111</item>
+        <item> Santosh Giri  : 9800000000 </item>
+        <item> Rupesh Basnet : 9822222222 </item>
+        <item> Aviyan Shresth : 9844444444 </item>
+        <item> Aaysuh Devkota :  9899999999 </item>
+        <item> Sujhab kandel   : 9866666666 </item>
+        <item> Bicky Chhetri  : 9877777777 </item>
+        <item> Babin khanal : 9888888888 </item>
+        <item> Joe Haan :  9833333333 </item>
+        <item> Brad Delson : 9855555555 </item>
+        <item> Mike Shinoda : 9812121212 </item>
+        <item> Erik Sharma :  9834343434 </item>
+        <item> Pratik Karki : 9856565656 </item>
+    </string-array>
+
+
+</resources>
